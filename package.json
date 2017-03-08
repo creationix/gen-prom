@@ -1,6 +1,6 @@
 {
   "name": "gen-prom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise version of gen-run to use generators as async/await in node 4.x and 6.x",
   "main": "gen-prom.js",
   "scripts": {
