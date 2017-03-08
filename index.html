@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<body>
+  See console for test results.
+  <script>
+    window.exports = {};
+    window.module = {exports:exports};
+    window.require = function () { return module.exports; };
+  </script>
+  <script src="gen-prom.js"></script>
+  <script src="test.js"></script>
+</body>
+</html>

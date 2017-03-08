@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/creationix/gen-prom/issues"
   },
-  "homepage": "https://github.com/creationix/gen-prom#readme"
+  "homepage": "https://github.com/creationix/gen-prom#readme",
+  "dependencies": {}
 }
